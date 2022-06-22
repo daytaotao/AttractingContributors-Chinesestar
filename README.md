@@ -29,3 +29,7 @@ Goal - I want contributors to introduce some favorite Chinese stars(actor,actres
 8. Zhou Xun
 9. Zhou Xingchi
 
+10. Ding Zhen
+11. Eileen Feng Gu
+12. Wu Jing
+
